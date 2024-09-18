@@ -1,21 +1,20 @@
----
+<h1 align="center"> 👋 Hi there! I’m Aditya Jaiswal</h1>  
 
-# 👋 Hi there! I’m **Aditya Jaiswal**  
 
----
 
 ## 🚀 About Me:
 - 👀 **Passionate about:** Software Development, Data Science, and Problem-Solving.
-- 🎓 **Currently mastering:**  
+- 🎓 **Currently learning & mastering:**  
   - **Languages**: Java, SQL  
-  - **Concepts**: Data Structures & Algorithms (DSA)  
+  - **Concepts**: Data Structures & Algorithms (DSA)
+  - **Paltfoms**: RStudio, Hadoop, Tableau
   - **DevOps tools**: Docker, Jenkins, Nagios  
 - 💡 **Looking to collaborate on:**  
   - Open-source projects  
   - Backend development  
   - Data Science applications
 
----
+
 
 ## 🔧 Skills & Tools:
 - **Programming Languages:**  
@@ -35,33 +34,30 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Nagios](https://img.shields.io/badge/Nagios-0080FF?style=for-the-badge&logo=nagios&logoColor=white)
 
----
 
 ## 📫 How to reach me:
 - **Email:** [adityajaiswal1409@gmail.com](mailto:adityajaiswal1409@gmail.com)  
 - **LinkedIn:** (https://www.linkedin.com/in/jaiswal-14-aditya/)
 
----
 
-### 💡 Quote:
+
+## 💡 Quote:
 << "The best way to predict the future is to invent it." – Alan Kay <<
 
----
 
-### 📈 GitHub Stats:
->>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaiswal-aditya-14&theme=dark&card_width=400)](https://git.io/streak-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaJaiswal&show_icons=true&theme=radical)
+## 📈 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=jaiswal-aditya-14)
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=jaiswal-aditya-14&theme=vue-dark&card_width=400"></p>
 
----
 
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiswal-aditya-14&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+![jaiswal-aditya-14's Stats](https://github-readme-stats.vercel.app/api?username=jaiswal-aditya-14&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-Here’s how you can structure an **Achievements Section** on your GitHub profile:
 
----
+![jaiswal-aditya-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-aditya-14&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-### 🏆 Achievements:
+
+## 🏆 Achievements:
 - **Certifications:**
   - [Core Java in Summer PEP 24 with Coding Spoon](https://credsverse.com/credentials/3f468bf1-5ab1-4872-9bf8-8b3babb38aba?)  
   - [Data Science with Python - Coursera](https://www.your-link.com)  
@@ -72,4 +68,3 @@ Here’s how you can structure an **Achievements Section** on your GitHub profil
   - Advanced SQL for Data Science - [Coursera](https://www.coursera.org)
 
 ---
-
