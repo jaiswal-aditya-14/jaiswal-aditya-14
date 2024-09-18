@@ -48,11 +48,10 @@
 
 ## 📈 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=jaiswal-aditya-14)
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=jaiswal-aditya-14&theme=vue-dark&card_width=400"></p>
-
 
 ![jaiswal-aditya-14's Stats](https://github-readme-stats.vercel.app/api?username=jaiswal-aditya-14&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaiswal-aditya-14&theme=vue-dark&card_width=400)](https://git.io/streak-stats#center)
 
 ![jaiswal-aditya-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-aditya-14&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
