@@ -58,7 +58,7 @@
 
 ## 🏆 Achievements:
 - **Certifications:**
-  - [Core Java in Summer PEP 24 with Coding Spoon](https://credsverse.com/credentials/3f468bf1-5ab1-4872-9bf8-8b3babb38aba?)  
+  - [Core Java in Summer PEP 24 with Coding Spoon](https://credsverse.com/credentials/3f468bf1-5ab1-4872-9bf8-8b3babb38aba)  
   - [Data Science with Python - Coursera](https://www.your-link.com)  
   - [DevOps Essentials - Udemy](https://www.your-link.com)
 
