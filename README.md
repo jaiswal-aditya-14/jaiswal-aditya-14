@@ -33,6 +33,7 @@
 - **Others:**  
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nagios](https://img.shields.io/badge/Nagios-0080FF?style=for-the-badge&logo=nagios&logoColor=white)
 
 ---
 
@@ -42,13 +43,33 @@
 
 ---
 
-[![Aditya's GitHub activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiswal-aditya-14&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+### 💡 Quote:
+<< "The best way to predict the future is to invent it." – Alan Kay <<
 
 ---
 
 ### 📈 GitHub Stats:
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaJaiswal&show_icons=true&theme=radical)
+>>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaiswal-aditya-14&theme=dark&card_width=400)](https://git.io/streak-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaJaiswal&show_icons=true&theme=radical)
 
 ---
 
-This README includes sections for skills, tools, and contact information, making it both informative and visually engaging. You can also add badges and links to make it stand out further!
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiswal-aditya-14&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
+Here’s how you can structure an **Achievements Section** on your GitHub profile:
+
+---
+
+### 🏆 Achievements:
+- **Certifications:**
+  - [Core Java in Summer PEP 24 with Coding Spoon](https://credsverse.com/credentials/3f468bf1-5ab1-4872-9bf8-8b3babb38aba?)  
+  - [Data Science with Python - Coursera](https://www.your-link.com)  
+  - [DevOps Essentials - Udemy](https://www.your-link.com)
+
+- **Completed Courses:**
+  - Java Programming Masterclass - [Udemy](https://www.udemy.com)  
+  - Advanced SQL for Data Science - [Coursera](https://www.coursera.org)
+
+---
+
